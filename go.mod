@@ -123,7 +123,7 @@ require (
 	github.com/SAP/go-hdb v0.14.1 // indirect
 	github.com/aokoli/goutils v1.0.1 // indirect
 	github.com/armon/go-metrics v0.0.0-20180917152333-f0300d1749da // indirect
-	github.com/aws/aws-sdk-go v1.29.16 // indirect
+	github.com/aws/aws-sdk-go v1.34.0 // indirect
 	github.com/aws/aws-sdk-go-v2 v1.3.2 // indirect
 	github.com/aws/aws-sdk-go-v2/credentials v1.1.5 // indirect
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.1.2 // indirect
