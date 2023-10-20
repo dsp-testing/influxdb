@@ -94,7 +94,7 @@ require (
 	google.golang.org/protobuf v1.27.1
 	gopkg.in/vmihailenco/msgpack.v2 v2.9.1 // indirect
 	gopkg.in/yaml.v2 v2.3.0
-	gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c
+	gopkg.in/yaml.v3 v3.0.0
 	honnef.co/go/tools v0.2.0
 	labix.org/v2/mgo v0.0.0-20140701140051-000000000287 // indirect
 )
